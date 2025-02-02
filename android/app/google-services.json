@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806765012577",
+    "firebase_url": "https://notetaking-4c225-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notetaking-4c225",
+    "storage_bucket": "notetaking-4c225.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806765012577:android:fbc381a3e72e595177ac20",
+        "android_client_info": {
+          "package_name": "com.example.test_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806765012577-hupd2bvenidln8tpp9o4ktjpdlamqu20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_1",
+            "certificate_hash": "5fb1a56867c12572b7d7595b68b6114e0264cc02"
+          }
+        },
+        {
+          "client_id": "806765012577-un6geaema3pdc7u2jqbgglia1emlb8er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbL9N2wZol6GxwBG7o67KRHe5khcM6NXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806765012577-un6geaema3pdc7u2jqbgglia1emlb8er.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806765012577-p4q2ev4qpnevoclf6qpbv4rfm41gvp3u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
