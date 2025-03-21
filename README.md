@@ -3,7 +3,7 @@
 My first Flutter app, following this tutorial:
 https://youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv&si=qXRVrjgwKfVQS_Y9
 
-Users can sign in, post notes to a Homepage, and like the notes. These notes and their no. of likes are all stored in a Firebase realtime database, its contents queried everytime upon app startup to fetch and display all existing note objects
+Users can sign in, post notes to a Homepage, and like the notes. These notes and their no. of likes are all stored in a Firebase realtime database, its contents queried everytime upon app startup to fetch and display all existing note objects.
 
 ## Video
 https://youtu.be/RshXCbbEMMk
