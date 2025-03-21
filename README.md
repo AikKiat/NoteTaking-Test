@@ -1,8 +1,12 @@
-# test_1
+# A simple Notetaking App made using Flutter, with Google Sign In and a Firebase Realtime Database
 
-A new Flutter project.
+My first Flutter app, following this tutorial:
+https://youtube.com/playlist?list=PLzMcBGfZo4-knQWGK2IC49Q_5AnQrFpzv&si=qXRVrjgwKfVQS_Y9
 
-## Getting Started
+Users can sign in, post notes to a Homepage, and like the notes. These notes and their no. of likes are all stored in a Firebase realtime database, its contents queried everytime upon app startup to fetch and display all existing note objects
+
+## Video
+https://youtu.be/RshXCbbEMMk
 
 This project is a starting point for a Flutter application.
 
